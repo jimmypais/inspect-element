@@ -1,4 +1,4 @@
-html><head>
+<html><head>
   <title>Inspect Element Demo</title>
 </head>
 <body>
